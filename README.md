@@ -6,7 +6,7 @@
 # Date: 
 
 ### AIM:
-To perform regular differncing,seasonal adjustment and log transformatio on Water temperature for water quality data.
+To perform regular differncing,seasonal adjustment and log transformatio on Bit-coin price prediction data.
 
 ### ALGORITHM:
 
